@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/lg/my90ds" name="xcore995/android_device_lg_my90ds" revision="cm-14.1" />
+    <project path="kernel/lg/my90ds" name="xcore995/android_kernel_lg_magna" revision="cm-14.1" />
+    <project path="vendor/lg/my90ds" name="xcore995/android_vendor_lg_my90ds" revision="cm-14.1" />
+    <project path="hybris/droid-hal-version-my90ds" name="xcore995/droid-hal-version-my90ds" revision="master" />
+    <project path="hybris/droid-configs" name="xcore995/droid-config-my90ds" revision="master" />
+    <project path="rpm" name="xcore995/droid-hal-my90ds" revision="master" />
+</manifest>
